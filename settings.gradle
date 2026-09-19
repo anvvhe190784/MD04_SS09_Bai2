@@ -1,0 +1,4 @@
+rootProject.name = 'MD04_SS09_Bai1'
+include 'config-server'
+include 'pharmacy-service'
+
